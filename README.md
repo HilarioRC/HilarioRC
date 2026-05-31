@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hilario Reyes
 
-<!--
-**HilarioRC/HilarioRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Administración · Tecnología · Negocios
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Actualmente en formación dentro del área **Administrativa**, mientras desarrollo conocimientos en tecnología y negocios para comprender el funcionamiento de las organizaciones y sus cambios tecnológicos.
+
+Mi objetivo es construir una base sólida en **ciencias computacionales, ingeniería de software y análisis cuantitativo** mediante el estudio constante y el desarrollo de proyectos que permitan aplicar conocimientos en entornos reales.
+
+A largo plazo, busco integrar tecnología, finanzas y análisis de datos para participar en el diseño y desarrollo de **soluciones que aporten valor a empresas del sector financiero y corporativo**.
+
+---
+
+## Áreas de interés
+
+| Tecnología | Análisis | Negocios |
+|---|---|---|
+| Desarrollo Backend | Análisis de Datos | Finanzas y Negocios |
+| Java & Spring Boot | Matemáticas Aplicadas | — |
+| Bases de Datos | Optimización | — |
+| Arquitectura de Software | Inteligencia Artificial | — |
+
+---
+
+## Actualmente
+
+- `[>]` Fortaleciendo fundamentos de programación y estructuras de datos
+- `[>]` Desarrollando proyectos personales para adquirir experiencia práctica
+- `[>]` Aprendiendo tecnologías utilizadas en entornos profesionales
+- `[>]` Formándome en conceptos administrativos, financieros y de análisis
+- `[>]` Construyendo un portafolio que refleje mi crecimiento técnico y profesional
+
+---
+
+*En este perfil encontrarás proyectos de aprendizaje, experimentos y desarrollos personales que documentan mi progreso como desarrollador.*
