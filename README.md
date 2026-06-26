@@ -19,7 +19,7 @@ A largo plazo, busco integrar tecnología, finanzas y análisis de datos para pa
 | Tecnología | Análisis | Negocios |
 |---|---|---|
 | Desarrollo Backend | Análisis de Datos | Finanzas y Negocios |
-| Java & Spring Boot | Matemáticas Aplicadas | — |
+| Java & Spring Boot | Matemáticas Financieras | — |
 | Bases de Datos | Optimización | — |
 | Arquitectura de Software | Inteligencia Artificial | — |
 
